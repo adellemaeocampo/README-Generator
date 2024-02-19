@@ -9,8 +9,9 @@ specifically inquirer.
 
 ## Usage
 
-The video below shows the README generator in action. 
+The video below shows the README generator in action:
 
+file:///Users/adelleocampo/Downloads/Untitled_%20Feb%2019%202024%2011_57%20PM.webm
 
 
 
