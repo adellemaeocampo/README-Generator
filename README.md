@@ -1,32 +1,16 @@
-# f
-    
+# README-Generator
+
 ## Description
-f
-    
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-    
-## Installation
-f
-    
+
+This application is made with node.js to aid developers in making a a highquality README file for github, making the process of creating anf adding to repositories easier
+node.js is used to ask for user input in order to customise the README file for various and mulitple projects. Tocreate this application Node.js was used, along with NPM packages,
+specifically inquirer. 
+
+
 ## Usage
-f
-    
-## License
-This application is covered under the MIT license.
-    
-## Contributing
-ff
-    
-## Tests
-f
-    
-## Questions
-For additional questions, you can reach me through:
-- GitHub: [f](https://github.com/f)
-- Email: f
+
+The video below shows the README generator in action. 
+
+
+
+
