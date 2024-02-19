@@ -14,4 +14,3 @@ The video below shows the README generator in action.
 
 
 
-

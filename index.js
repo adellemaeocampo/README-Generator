@@ -2,38 +2,38 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 
 const generateREADME = ({ title, description, install, usage, contribution, testing, badge, github, email }) =>
-    `# ${title}
+`# ${title}
     
-    ## Description
-    ${description}
+## Description
+${description}
     
-    ## Table of Contents
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
     
-    ## Installation
-    ${install}
+## Installation
+${install}
     
-    ## Usage
-    ${usage}
+## Usage
+${usage}
     
-    ## License
-    This application is covered under the ${badge} license.
+## License
+This application is covered under the ${badge} license.
     
-    ## Contributing
-    ${contribution}
+## Contributing
+${contribution}
     
-    ## Tests
-    ${testing}
+## Tests
+${testing}
     
-    ## Questions
-    For additional questions, you can reach me through:
-    - GitHub: [${github}](https://github.com/${github})
-    - Email: ${email}
+## Questions
+For additional questions, you can reach me through:
+- GitHub: [${github}](https://github.com/${github})
+- Email: ${email}
 `;
 
 inquirer
