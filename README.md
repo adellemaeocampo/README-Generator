@@ -1,7 +1,7 @@
 # README generator
     
 ## Description
-This project generates a readme file, which is meant to be used for github repositories, this will make the writing of readme files mucheasier for developers. 
+This application is made with node.js to aid developers in making a a highquality README file for github, making the process of creating anf adding to repositories easier node.js is used to ask for user input in order to customise the README file for various and mulitple projects. Tocreate this application Node.js was used, along with NPM packages, specifically inquirer.
     
 ## Table of Contents
 - [Installation](#installation)
@@ -12,7 +12,7 @@ This project generates a readme file, which is meant to be used for github repos
 - [Questions](#questions)
     
 ## Installation
-Download files from repo
+download files from repo to your local device.
     
 ## Usage
 n/a
