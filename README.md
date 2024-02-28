@@ -16,7 +16,8 @@ This application is made with node.js to aid developers in making a a highqualit
 download files from repo to your local device.
     
 ## Usage
-n/a
+here is a link to a walk through video:
+[n/a](https://drive.google.com/file/d/1CQfVSEGs6doMVcgcoIl0H7K17ryGoq_V/view)
     
 ## License
 This application is covered under the None license.
@@ -31,4 +32,6 @@ n/a
 For additional questions, you can reach me through:
 - GitHub: [adellemaeocampo](https://github.com/adellemaeocampo)
 - Email: adelle.oocampo@gmail.com
+
+
 
