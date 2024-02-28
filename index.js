@@ -40,7 +40,7 @@ inquirer
     .prompt([
         {
             type: 'input',
-            name: 'title',
+            name: 'title', 
             message: 'What is the title of your project?',
         },
         {

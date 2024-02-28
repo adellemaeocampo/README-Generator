@@ -1,7 +1,7 @@
-# f
+# README generator
     
 ## Description
-f
+This project generates a readme file, which is meant to be used for github repositories, this will make the writing of readme files mucheasier for developers. 
     
 ## Table of Contents
 - [Installation](#installation)
@@ -12,21 +12,21 @@ f
 - [Questions](#questions)
     
 ## Installation
-f
+Download files from repo
     
 ## Usage
-f
+n/a
     
 ## License
-This application is covered under the MIT license.
+This application is covered under the None license.
     
 ## Contributing
-ff
+Adelle Ocampo
     
 ## Tests
-f
+n/a
     
 ## Questions
 For additional questions, you can reach me through:
-- GitHub: [f](https://github.com/f)
-- Email: f
+- GitHub: [adellemaeocampo](https://github.com/adellemaeocampo)
+- Email: adelle.oocampo@gmail.com
